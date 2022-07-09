@@ -2,7 +2,7 @@
 ### The task: Interesting speed control
 #### Programming languages: 
 ```
-Java, C++, Python, Ruby, Haskell, Lisp, Perl, Cobol, D, Elixir, Erlang, Rust, R, Scala, Swift
+Ruby, Haskell, Lisp, Perl, Cobol, D, Elixir, Erlang, Rust, R, Scala, Swift
 ```
 
 Section speed control is used in many countries to control traffic. It is based on the vehicles
