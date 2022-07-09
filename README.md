@@ -60,14 +60,8 @@ section in the minute that starts at the given minute (e.g. if the given hour mi
 is 08:09, then between 08:09:00.000-08:09:59.999) divided by the length of the
 road section. Display the value in decimal fraction format.
 5. Display the recorded speed data on the road section on the screen!
-6. Create a text file with name fines.txt, which contains the the recorded speeds and sum of the police income.
-The speeding fines are given in the following table.
-```
-above 104 km/h, up to 121 km/h 30 000 Ft
-above 121 km/h, up to 136 km/h 45 000 Ft
-above 136 km/h, up to 151 km/h 60 000 Ft
-above 151 km/h 200 000 Ft
-```
+6. Create a text file with name fines.txt, which contains the the recorded speeds.
+
 Example for the textual output:
 ```
 Exercise 1
@@ -93,13 +87,11 @@ Contents of file fines.txt:
 ```
 83.19467554076502
 ...
-...
-...
 11.811953697141501
+...
 65.1890482398959
+...
 73.09941520467882
--------------
-Police income: 1560000 Ft
 ```
 #### Based on the following task: 
 https://dload-oktatas.educatio.hu/erettsegi/feladatok_2022tavasz_emelt/e_infang_22maj_fl.pdf (4. Section speed control)
