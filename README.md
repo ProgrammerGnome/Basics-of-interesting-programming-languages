@@ -1,4 +1,4 @@
-# One task, 15 programming languages.
+# One task, 10 programming languages.
 ### The task: Interesting speed control
 #### Programming languages: 
 ```
