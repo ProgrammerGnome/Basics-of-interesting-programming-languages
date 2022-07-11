@@ -17,7 +17,7 @@ The solution:
 ```Ruby
 #!/usr/bin/ruby
 
-def function(a = "a", b = "b")
+def function()
 	variable_DNA = gets
 	chars = variable_DNA.split('')
 	chars.each { |c|
