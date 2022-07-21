@@ -1,4 +1,4 @@
-##### 7-kyu
+## 7 kyu
 
 Write reverseList function that simply reverses lists.
 ```Haskell
