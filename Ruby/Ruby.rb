@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-#-------------------------------- 1. PROGRAM --------------------------------
+#-------------------------------- [Codewars]-Complementary DNA.md --------------------------------
 
 def function()
 	variable_DNA = gets
